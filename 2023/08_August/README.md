@@ -1,14 +1,12 @@
 
 ***
 
-# 2023 August entries
+# Gameplay discontinued
 
-Entries for 2023 August [:octocat: `are located in a separate repository`](https://github.com/seanpm2001/SeansLifeArchive_Images_Sonic-Dash_Y2023_V3/)
+I stopped having fun playing this game, and the completionist goal just wasn't worth it. On 2023, July 16th, I skipped my session entirely, and plan to no longer play this game, even though I set up a self-contract for at least another month.
 
 ***
 
-# File info
-
-**File version:** `1 (2023, Sunday, July 2nd at 3:12 pm PST)`
+**File version:** `1 (2023, Monday, July 17th at 5:34 pm PST)`
 
 ***
